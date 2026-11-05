@@ -3,9 +3,9 @@
   "method": "Ручні ознаки (структурні + символи + HOG) + RF max_features=0.05 min_leaf=3",
   "test_accuracy": 0.5149,
   "test_macro_f1": 0.5246,
-  "train_seconds": 7.708,
-  "inference_seconds": 1.068,
-  "inference_ms_per_sample": 5.288,
-  "peak_ram_mb": 303,
+  "train_seconds": 9.197,
+  "inference_seconds": 1.041,
+  "inference_ms_per_sample": 5.155,
+  "peak_ram_mb": 329,
   "peak_vram_mb": null
 }
