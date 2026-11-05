@@ -1,0 +1,12 @@
+{
+  "level": 3,
+  "method": "Transfer learning, ResNet-18 ImageNet (fine-tuning ResNet-18)",
+  "hardware": "GPU Tesla T4",
+  "test_accuracy": 0.8465,
+  "test_macro_f1": 0.8478,
+  "train_seconds": 85.497,
+  "inference_seconds": 1.68,
+  "inference_ms_per_sample": 8.317,
+  "peak_ram_mb": 2312,
+  "peak_vram_mb": 1711
+}

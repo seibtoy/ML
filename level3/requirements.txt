@@ -1,0 +1,10 @@
+# Google Colab GPU runtime (Tesla T4), Python 3.13: versions the reported results were obtained with
+# On Intel macOS use torch==2.2.2 and torchvision==0.17.2 (last x86_64 wheels) with numpy<2
+torch==2.11.0
+torchvision==0.26.0
+numpy==2.4.6
+pandas==2.2.3
+pillow==11.3.0
+scikit-learn==1.6.1
+matplotlib==3.10.0
+psutil==5.9.5
