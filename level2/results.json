@@ -1,0 +1,12 @@
+{
+  "level": 2,
+  "method": "CNN з нуля (CNN на сітці символів)",
+  "hardware": "GPU Tesla T4",
+  "test_accuracy": 0.5594,
+  "test_macro_f1": 0.5571,
+  "train_seconds": 73.813,
+  "inference_seconds": 0.067,
+  "inference_ms_per_sample": 0.329,
+  "peak_ram_mb": 1957,
+  "peak_vram_mb": 612
+}
