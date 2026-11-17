@@ -4,9 +4,9 @@
   "hardware": "GPU Tesla T4",
   "test_accuracy": 0.8416,
   "test_macro_f1": 0.8451,
-  "train_seconds": 77.433,
-  "inference_seconds": 1.639,
-  "inference_ms_per_sample": 8.114,
-  "peak_ram_mb": 2133,
-  "peak_vram_mb": 1358
+  "train_seconds": 82.204,
+  "inference_seconds": 1.654,
+  "inference_ms_per_sample": 8.186,
+  "peak_ram_mb": 2384,
+  "peak_vram_mb": 1443
 }
