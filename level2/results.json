@@ -1,12 +1,12 @@
 {
   "level": 2,
-  "method": "CNN з нуля (CNN на сітці символів)",
+  "method": "CNN з нуля (ResNet-18 на зображеннях 224×224)",
   "hardware": "GPU Tesla T4",
-  "test_accuracy": 0.5594,
-  "test_macro_f1": 0.5571,
-  "train_seconds": 73.813,
-  "inference_seconds": 0.067,
-  "inference_ms_per_sample": 0.329,
-  "peak_ram_mb": 1957,
-  "peak_vram_mb": 612
+  "test_accuracy": 0.7426,
+  "test_macro_f1": 0.75,
+  "train_seconds": 310.794,
+  "inference_seconds": 1.64,
+  "inference_ms_per_sample": 8.119,
+  "peak_ram_mb": 2659,
+  "peak_vram_mb": 1805
 }
